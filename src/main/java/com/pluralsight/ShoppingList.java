@@ -13,6 +13,12 @@ public class ShoppingList {
         System.out.println("9. Oil");
         System.out.println("10. Lentil");
 
+        /* I am adding new shopping list */
+        System.out.println("I am adding new shopping list");
+        System.out.println( "Mobile");
+        System.out.println("Air pod");
+        System.out.println("Trading Old Phone");
+
 
     }
 }
