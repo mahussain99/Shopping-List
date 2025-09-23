@@ -12,7 +12,7 @@ public class ShoppingList {
         System.out.println("8. Vegetable");
         System.out.println("9. Oil");
         System.out.println("10. Lentil");
-
+        System.out.println(" ");
         /* I am adding new shopping list */
         System.out.println("I am adding new shopping list");
         System.out.println( "Mobile");
