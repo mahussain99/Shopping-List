@@ -2,6 +2,7 @@ package com.pluralsight;
 
 public class ShoppingList {
     public static void main(String[] args) {
+        System.out.println("My shopping list:");
         System.out.println("1. Mango");
         System.out.println("2. Apple");
         System.out.println("3. Dell Laptop");
@@ -12,12 +13,16 @@ public class ShoppingList {
         System.out.println("8. Vegetable");
         System.out.println("9. Oil");
         System.out.println("10. Lentil");
-        System.out.println(" ");
+//        System.out.println(" ");
+
+
         /* I am adding new shopping list */
-        System.out.println("I am adding new shopping list");
+        /*System.out.println("I am adding new shopping list");
         System.out.println( "Mobile");
         System.out.println("Air pod");
         System.out.println("Trading Old Phone");
+*/
+
 
 
     }
